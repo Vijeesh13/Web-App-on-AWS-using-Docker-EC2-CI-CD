@@ -1,4 +1,5 @@
-1) Application Architecture (Runtime on AWS)
+##Architecture
+
                     ┌────────────────────────────┐
                     │        End User            │
                     │  Web Browser / Client      │
@@ -21,7 +22,8 @@
                     │  - Exposes HTTP port       │
                     └────────────────────────────┘
 
-   The goal is to show a complete workflow from code commit → container build → deployment on a cloud server.
+
+The goal is to show a complete workflow from code commit → container build → deployment on a cloud server.
 
 🔍 Project Overview
 
